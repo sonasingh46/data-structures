@@ -1,4 +1,4 @@
-# Arrays
+# Array
 
 Arrays are the most basic, important and  intutive data strctures to be learnt.
 

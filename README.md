@@ -21,17 +21,17 @@ This tutorial is NOT for you if :
 # Syllabus 
 
 The tutorial will cover following data structures:
-- [Arrays](tutorial/arrays/README.md)
-- Maps
-- [Single Linked List](tutorial/singly-linked-list/README.md)
-- Double Linked List
-- Circular Linked List
-- Stacks
-- Queue
-- Binary Tree
-- Binary Search Tree
-- AVL Tree
-- Heap/Priority Queue
-- Trie
-- Disjoint Set
+- [Array](tutorial/array/README.md)
+- [Map](tutorial/map/README.md)
+- [Singly Linked List](tutorial/singly-linked-list/README.md)
+- [Doubly Linked List](tutorial/doubly-linked-list/README.md)
+- [Circular Linked List](tutorial/circular-linked-list/README.md)
+- [Stack](tutorial/stack/README.md)
+- [Queue](tutorial/queue/README.md)
+- [Binary Tree](tutorial/binary-tree/README.md)
+- [Binary Search Tree](tutorial/binary-search-tree/README.md)
+- [AVL Tree](tutorial/avl-tree/README.md)
+- [Heap/Priority Queue](tutorial/heap/README.md)
+- [Trie](tutorial/trie/README.md)
+- [Disjoint Set](tutorial/disjoint-set/README.md)
 
