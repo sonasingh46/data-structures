@@ -21,9 +21,9 @@ This tutorial is NOT for you if :
 # Syllabus 
 
 The tutorial will cover following data structures:
-- Arrays
+- [Arrays](tutorial/arrays/README.md)
 - Maps
-- Single Linked List
+- [Single Linked List](tutorial/singly-linked-list/README.md)
 - Double Linked List
 - Circular Linked List
 - Stacks
