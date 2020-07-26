@@ -37,7 +37,7 @@ func main() {
 
 	// print the evenList
 	for i:=0;i<len(evenList);i++{
-		fmt.Println("At index %d:%d",i,evenList[i])
+		fmt.Printf("At index %d:%d\n",i,evenList[i])
 	}
 
 	sliceTutorial()

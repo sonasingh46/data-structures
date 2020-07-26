@@ -89,7 +89,7 @@ Also, array index cannot be a negative number.
 You can access,add,delete and modify items in an array. But in golang array that we have discussed so far, we can only access and modify them.
 Addition and removal cannot be done here and golang arrays are static in nature in this context.
 
-Golang has another array like data structure known as slice that allows you to do all the opeations i.e. access,add,delete and modify. Do not confuse that slice is a new kind of data structure. Slices are nothing but arrays only but they allow a richer set of operations. This is how it is in Golang.
+Golang has another array like data structure known as slice that allows you to do all the operations i.e. access,add,delete and modify. Do not confuse that slice is a new kind of data structure. Slices are nothing but arrays only but they allow a richer set of operations. This is how it is in Golang.
 There can exist a language where an array simply allow all the operations.
 
 Please go through the following link to understand the difference between array and slice in golang. It is highly recommended that you understand this if you are programming in Go.
