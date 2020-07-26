@@ -1,4 +1,4 @@
-package singly_linked_list
+package singlylinkedlist
 
 import (
 	"testing"

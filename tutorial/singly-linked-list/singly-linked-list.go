@@ -1,4 +1,4 @@
-package singly_linked_list
+package singlylinkedlist
 
 // Node is the linked list item type
 type Node struct {
