@@ -35,3 +35,8 @@ The tutorial will cover following data structures:
 - [Trie](tutorial/trie/README.md)
 - [Disjoint Set](tutorial/disjoint-set/README.md)
 
+# Disclaimers
+- The code in the tutorial are here for learning purpose and building concepts and may
+not be suitable for production environment. Although, you are free to use the code but
+you should know what you are doing and should do at your own risk.
+
