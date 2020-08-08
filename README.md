@@ -28,6 +28,7 @@ The tutorial will cover following data structures:
 - [Circular Linked List](tutorial/circular-linked-list/README.md)
 - [Stack](tutorial/stack/README.md)
 - [Queue](tutorial/queue/README.md)
+- [Dequeue](tutorial/dequeue/README.md)
 - [Binary Tree](tutorial/binary-tree/README.md)
 - [Binary Search Tree](tutorial/binary-search-tree/README.md)
 - [AVL Tree](tutorial/avl-tree/README.md)
